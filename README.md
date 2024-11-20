@@ -17,15 +17,7 @@ MixCrafted is a web application that allows users to explore, upload, and share 
 
 ## How to Run
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/bootstrap-sprint.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd bootstrap-sprint/bootstrap-sprint-master
-    ```
-3. Open `index.html` in your web browser to view the application.
+Visit the website at [https://bootstrap-sprint-master.onrender.com](https://bootstrap-sprint-master.onrender.com)
 
 ## License
 
